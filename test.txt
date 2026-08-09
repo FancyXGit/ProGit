@@ -1,7 +1,0 @@
-INIT GIT
-
-GIT ADD
-
-// nonono
-
-111
